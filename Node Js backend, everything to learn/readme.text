@@ -1,3 +1,6 @@
+--INSTRUCTION--
+JUST RUN IN NODE ----- npm init
+
 In this project you have everything to start learning with such as -:
 
 1.) EXPRESS, (CREATE SERVER, MIDDLEWARE, ROUTES, ETC)
